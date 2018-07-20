@@ -3,19 +3,15 @@
 ## Les commandes Git les plus utiles
 
 ### Sommaires : 
-
 1. commandes de configuration
 	* init
 	* config
 	* remote
-
 2. commandes uilisables en locale
 	* add
 	* commit
-	* checkout
 	* branch
 	* merge
-
 3. Commandes pour la gestion des branches distante
 	* fetch
 	* pull
@@ -55,6 +51,7 @@ permet de fusionner 2 branches, generalement une branche de travail et le master
 ```
 git merge nomdelabranchdetravail
 ```
+L'option -- abort, permet d'annuler un merge en cours et de revenir à l'état précédent les différents conflit apparu durant le merge.
 
 ### Commandes pour la gestion des branches distante
 **Pull**
@@ -67,7 +64,10 @@ Permet de pousser les commits locale sur une branche distante
 ```
 git push origin nomdelabranchelocal
 ```
+Quelques options utiles :
+* -- all : permet de pousser toutes les branches en même temps
+* -- prune : permet de nettoyer les branches distantes qui n'ont plus équivalent en locale (les branches déjà merger)
 
 ##### Mon projet de DemoGit sur GitHub
 * ![GitHub Logo](/images/logo.png) [DemoGit](https://github.com/remiGenydumont/RGD-DemoGit)
-* ![Profil Picture](/images/pp.png) [Mon Twitter](https://twitter.com/Keiro__)
+* ![Profil Picture](/images/pp.jpg) [Mon Twitter](https://twitter.com/Keiro__)
