@@ -71,3 +71,7 @@ Quelques options utiles :
 ##### Mon projet de DemoGit sur GitHub
 * ![GitHub Logo](/images/logo.png) [DemoGit](https://github.com/remiGenydumont/RGD-DemoGit)
 * ![Profil Picture](https://pbs.twimg.com/profile_images/928001057954979840/CmwgU2so_bigger.jpg) [Mon Twitter](https://twitter.com/Keiro__)
+
+* ![Profil Picture](https://i.ytimg.com/vi/10UQcpebGQU/maxresdefault.jpg) [Mon Twitter](https://twitter.com/Keiro__)
+
+
